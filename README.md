@@ -1,42 +1,46 @@
-# Rothko-Painting
-Painting Useing CSS
+# **Rothko Painting**
 
-This website was built using Free Code Camp instructions: Learn the CSS box Model By Building a Rothko Painting
+## **Project Overview**
 
-Section: Responsive Web Desgin
+#### This Project Is A **Rothko Painting**, Developed As Part of The FreeCodeCamp Curriculum. 
 
-Course Name: Learn the CSS box Model By Building a Rothko Painting
+#### The Primary Goal Is Learn CSS Box Model By Building A Rothko Painting.
 
-Deatils:
+## **Course Details**
 
-Every HTML element is its own box – with its own spacing and a border. This is called the Box Model.
++ **Course Section**: Responsive Web Design.
+  
++ **Project Name**:  Rothko Painting Webpage.
+  
++ This Site Was Built Using **[Free Code Camp](https://www.freecodecamp.org/).**
+  
++ This Project Is One of The **Required Tasks** To Earn The Certification In Responsive Web Design.
 
-In this course, you'll use CSS and the Box Model to create your own Rothko-style rectangular art pieces.
+## **Purpose**
 
-Link:
+Every HTML Element Is Its Own Box – With Its Own Spacing And A Border. 
 
-https://www.freecodecamp.org/
+This Is Called The Box Model.  
 
+In This Course, You'll Use CSS And The Box Model To Create Your Own Rothko-Style Rectangular Art Pieces.
 
+## **Acknowledgment**
 
+This Project Was Created Following The Instructions Provided By **FreeCodeCamp**.
 
+**All rights** To This Project And Its Related Materials Belong To **FreeCodeCamp**, A Free Educational Platform Offering Structured Courses And Hands-on Projects.
 
+I Am Showcasing This Project As Part of My Learning Journey, Completed Based on FreeCodeCamp's Resources And Guidance.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A Big Thank You To **FreeCodeCamp** For Their Well-Structured Curriculum, Projects, And Partially Provided Code Snippets That Made This Project Possible.
 
+## **Special Thanks**
 
-This WebSite or Project Was Built Using The Instructions of The Free Code Camp  WebSite.
+I Would Also Like To Extend **My Gratitude** To The Following Channels For Their Guidance In Writing The Code:
 
-Therefore, All Rights In This WebSite or Project Belong To The Free Code Camp Site, A Free Educational Site That Contains Many Projects.
+**[@codeManS](https://www.youtube.com/@codeManS)**
 
-I Am Only Reviewing The Project After Building It From Their Site, So The Project Does Not Belong To Me.
+**[@landonschlangen](https://www.youtube.com/@landonschlangen)**
 
-I Would Like To thank The Educational Website Free Code Camp For Teaching Me By Providing Projects , Instructions , And Part of The Codes
-
-
-
-
-
-
-
+These Resources Provided Valuable Insights And Helped Me Refine My Coding Skills.
 
